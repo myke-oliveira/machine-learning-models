@@ -1,0 +1,411 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"re",
+				"regex_email"
+			],
+			[
+				"capt",
+				"capital"
+			],
+			[
+				"ca",
+				"capitals"
+			],
+			[
+				"num",
+				"num_question"
+			],
+			[
+				"nu",
+				"num_questions"
+			],
+			[
+				"quiz",
+				"quiz_num"
+			],
+			[
+				"qui",
+				"quiz_num"
+			],
+			[
+				"reg",
+				"regex_digit"
+			],
+			[
+				"rege",
+				"regex_uppercase"
+			],
+			[
+				"best",
+				"best_value"
+			],
+			[
+				"co",
+				"cost"
+			],
+			[
+				"cost",
+				"costlist"
+			],
+			[
+				"s",
+				"solution"
+			],
+			[
+				"Cha",
+				"ChatterBotCorpusTrainer"
+			],
+			[
+				"wh",
+				"who_dont_follow_back"
+			],
+			[
+				"who",
+				"who_dont_follow_backFile"
+			],
+			[
+				"followeds",
+				"followedsFile"
+			],
+			[
+				"fo",
+				"followersFile"
+			],
+			[
+				"find",
+				"find_elements_by_tag_name"
+			],
+			[
+				"se",
+				"send_keys"
+			],
+			[
+				"mo",
+				"mobile_emulation"
+			],
+			[
+				"User",
+				"UserMixin"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"ha",
+				"hashed_pw"
+			],
+			[
+				"da",
+				"DateTime"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"for",
+				"form-group"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"flas",
+				"FlaskForm"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"E",
+				"EqualTo"
+			],
+			[
+				"Pa",
+				"PasswordField"
+			],
+			[
+				"w",
+				"wtfoms"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "# machine-learning-models\n\nThis repository presents some useful models and techinics for machine learning.\n\n## Dependences\n\n\n\n## Summary\n",
+			"file": "README.md",
+			"file_size": 136,
+			"file_write_time": 132101202514608523,
+			"settings":
+			{
+				"buffer_size": 137,
+				"line_ending": "Unix",
+				"name": "# machine-learning-models"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/myke/Dropbox/machine-learning-models"
+	],
+	"file_history":
+	[
+		"/home/myke/Dropbox/invent-with-python/Automate-The-Borring-Stuff/search_patterns.py",
+		"/home/myke/Dropbox/invent-with-python/Automate-The-Borring-Stuff/contatinhos.txt",
+		"/home/myke/Dropbox/invent-with-python/Automate-The-Borring-Stuff/chapter8_quiz.py",
+		"/home/myke/Dropbox/invent-with-python/Automate-The-Borring-Stuff/chapter8_quiz/capitals.py",
+		"/home/myke/Dropbox/invent-with-python/Automate-The-Borring-Stuff/chapter8_quiz/random_quiz_generator.py",
+		"/home/myke/Dropbox/invent-with-python/Automate-The-Borring-Stuff/chapter7.py",
+		"/home/myke/Dropbox/invent-with-python/Automate-The-Borring-Stuff/mydata.dir",
+		"/home/myke/Dropbox/invent-with-python/Automate-The-Borring-Stuff/mydata.bak",
+		"/home/myke/Dropbox/invent-with-python/Automate-The-Borring-Stuff/mydata.dat",
+		"/home/myke/Dropbox/pso/pso.py",
+		"/home/myke/Dropbox/simulated_annealing/plot_costs.py",
+		"/home/myke/Dropbox/simulated_annealing/simulated_annealing.py",
+		"/home/myke/Dropbox/chatbot/clear_whatsapp.txt",
+		"/home/myke/Dropbox/chatbot/whatsapp.txt",
+		"/home/myke/Dropbox/chatbot/clear_whatsapp.py",
+		"/home/myke/Dropbox/chatbot/conversa.txt",
+		"/home/myke/Dropbox/chatbot/chatbot.py",
+		"/home/myke/Dropbox/py_eletromagnetismo/exp.py",
+		"/home/myke/Dropbox/py_eletromagnetismo/Biot_Savart.py",
+		"/home/myke/Dropbox/py_eletromagnetismo/plot_vectors.py",
+		"/home/myke/Dropbox/Instagram_bots/who_dont_follow_back.txt",
+		"/home/myke/Dropbox/Instagram_bots/open_unfollowers.py",
+		"/home/myke/Dropbox/Instagram_bots/unfollow.py",
+		"/home/myke/Dropbox/Instagram_bots/get_followers_list.py",
+		"/home/myke/Dropbox/Instagram_bots/get_followed_list.py",
+		"/home/myke/Dropbox/Instagram_bots/run.py",
+		"/home/myke/Dropbox/Instagram_bots/get_who_dont_follow_back.py",
+		"/home/myke/Dropbox/Instagram_bots/followweds.txt",
+		"/home/myke/Dropbox/Instagram_bots/folowers.txt",
+		"/home/myke/Dropbox/Instagram_bots/get_followers_list.sublime-project",
+		"/home/myke/Dropbox/invent-with-python/Automate-The-Borring-Stuff/sonnet29.txt",
+		"/home/myke/Dropbox/invent-with-python/Automate-The-Borring-Stuff/hello.txt",
+		"/home/myke/Dropbox/flaskblog/flaskblog/models.py",
+		"/home/myke/Dropbox/flaskblog/flaskblog/__init__.py",
+		"/home/myke/Dropbox/flaskblog/models.py",
+		"/home/myke/Dropbox/flaskblog/flaskblog/forms.py",
+		"/home/myke/Dropbox/flaskblog/flaskblog/routes.py",
+		"/home/myke/Dropbox/flaskblog/README.md",
+		"/home/myke/Dropbox/flaskblog/flaskblog/run.py",
+		"/home/myke/Dropbox/flaskblog/run.py",
+		"/home/myke/Dropbox/flaskblog/flaskblog.py",
+		"/home/myke/Dropbox/flaskblog/templates/login.html",
+		"/home/myke/Dropbox/flaskblog/templates/register.html",
+		"/home/myke/Dropbox/flaskblog/templates/layout.html",
+		"/home/myke/Dropbox/flaskblog/create_data_base.py",
+		"/home/myke/Dropbox/flaskblog/flaskblog.sublime-project",
+		"/home/myke/Dropbox/flaskblog/templates/about.html",
+		"/home/myke/Dropbox/flaskblog/templates/home.html",
+		"/home/myke/Dropbox/flaskblog/static/main.css",
+		"/home/myke/Dropbox/flaskblog/forms.py",
+		"/home/myke/Music/MIDI/Pirates of the Caribbean - He's a Pirate (3).mid"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ninja"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"jinja"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# machine-learning-models",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "machine-learning-models.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 116.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
