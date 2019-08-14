@@ -2,13 +2,37 @@
 
 import numpy as np
 
-inputs = np.array([1, 7, 5])
-weights = np.array([0.8, 0.1, 0])
+learning_ratio = .1
 
-sumxw = inputs.dot(weights)
+print('Train set - Logic AND')
+X = [np.array((0, 0)), np.array((0, 1)), np.array((1, 0)), np.array((1, 1))]
 
-print(sumxw)
+Y = [0, 0, 0, 1]
+print('X     Y')
+for x, y in zip(X, Y):
+	print(x, y)
+print()
 
-activation_fuction = lambda x: 1 if x > 0 else 0
+weights = np.array((0, 0))
+print(f'Weights = {weights}')
 
-print(activation_fuction(sumxw))
+activation_fuction = lambda x: 1 if x >= 1 else 0
+neural_output = lambda x: x.dot(weights)
+
+# Output from Neural Network
+print(f'Output from Neural Network:')
+print('X     Y')
+for x in X:
+	print(x, neural_output(x))
+print()
+
+# Train Neural Network
+print('Training Neural Network...')
+
+while True:
+	for x, y in zip(X, Y):
+		print(x, y)
+		# weights = weights + learning_ratio * x * (y-)
+	break
+
+
