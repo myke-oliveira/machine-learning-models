@@ -51,4 +51,5 @@ while True:
 	if any(abs(Err) < EPSILON):
 		break
 	sleep(2)
+	# Gradient Descendent
 
