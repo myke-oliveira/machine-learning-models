@@ -19,5 +19,24 @@ weights0 = np.array([[-.424, -.740, -.961],
 
 print('weights0 = ')
 print(weights0)
+print()
 
-print(weights0 * X)
+# sigmoide
+f = lambda x: 1 / (1 + np.exp(x))
+
+print('Hidden Layer')
+S = f(np.matmul(X, weights0))
+print(S)
+print()
+
+weights1 = np.array([[-.017],
+	[-.893],
+	[.148]])
+
+print('weights1 = ')
+print(weights1)
+print()
+
+print('Output')
+T = f(np.matmul(S, weights1))
+print(T)
