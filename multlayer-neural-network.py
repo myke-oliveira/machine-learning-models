@@ -1,4 +1,5 @@
 import numpy as np
+from time import sleep
 
 X = np.array([[0, 0],
 	[0, 1],
@@ -24,7 +25,7 @@ print()
 # sigmoide
 f = lambda x: 1 / (1 + np.exp(x))
 
-print('Hidden Layer')
+print('Hidden Layer (S)')
 S = f(np.matmul(X, weights0))
 print(S)
 print()
@@ -37,6 +38,17 @@ print('weights1 = ')
 print(weights1)
 print()
 
-print('Output')
-T = f(np.matmul(S, weights1))
-print(T)
+EPSILON = .01
+while True:
+	print('-'*80)
+	print('Output (T)')
+	T = f(np.matmul(S, weights1))
+	print(T)
+	print('-'*80)
+	print('Err = ')
+	Err = Y-T
+	print(Err)
+	if any(abs(Err) < EPSILON):
+		break
+	sleep(2)
+
