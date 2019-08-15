@@ -4,9 +4,9 @@ import numpy as np
 learning_ratio = .1
 
 o = 1e-10
-EPSILON = 1e-4
+EPSILON = 1e-10
 
-f = lambda x, y: x**2 + y**2
+f = lambda x, y: (x-3)**2 + (y+1)**2
 
 gradient = lambda f, x, y: np.array(((f(x+o, y)-f(x, y))/o, (f(x, y+o)-f(x, y))/o))
 
