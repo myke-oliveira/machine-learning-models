@@ -7,7 +7,7 @@ learning_ratio = .1
 print('Train set - Logic AND')
 X = np.array(((0, 0), (0, 1), (1, 0), (1, 1)))
 
-Y = np.array([0, 0, 0, 1])
+Y = np.array((0, 0, 0, 1))
 print('X     Y')
 for x, y in zip(X, Y):
 	print(x, y)
@@ -31,6 +31,7 @@ print('Training Neural Network...')
 while (any(y - neural_output(x) for x, y in zip(X, Y))):
 	for x, y in zip(X, Y):
 		weights += learning_ratio * x * (y - neural_output(x))
+		print(weights)
 
 print('Final Output')
 for x in X:
