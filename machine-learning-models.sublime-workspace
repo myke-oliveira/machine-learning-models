@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"Z",
+				"zip\tfunction"
+			],
+			[
+				"le",
+				"learning_ratio\tstatement"
+			],
+			[
+				"ne",
+				"Network"
+			],
+			[
+				"wi",
+				"weights\tstatement"
+			],
+			[
+				"tr",
+				"training_list\tstatement"
+			],
+			[
 				"file",
 				"file_path"
 			],
@@ -156,21 +176,52 @@
 	"buffers":
 	[
 		{
-			"contents": "# machine-learning-models\n\nThis repository presents some useful models and techinics for machine learning.\n\n## Dependences\n\n\n\n## Summary\n",
 			"file": "README.md",
-			"file_size": 136,
-			"file_write_time": 132101202514608523,
 			"settings":
 			{
-				"buffer_size": 137,
+				"buffer_size": 290,
+				"encoding": "UTF-8",
 				"line_ending": "Unix",
 				"name": "# machine-learning-models"
 			}
+		},
+		{
+			"file": "percepton_single_layer.py",
+			"settings":
+			{
+				"buffer_size": 711,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
 		}
 	],
-	"build_system": "",
+	"build_system": "Packages/User/Anaconda-base.sublime-build",
 	"build_system_choices":
 	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Anaconda-base.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Anaconda-base.sublime-build",
+				""
+			]
+		]
 	],
 	"build_varint": "",
 	"command_palette":
@@ -184,7 +235,7 @@
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 172.0,
 		"history":
 		[
 		]
@@ -204,6 +255,12 @@
 	],
 	"file_history":
 	[
+		"/home/myke/Dropbox/machine-learning-models/percepton.py",
+		"/home/myke/Dropbox/machine-learning-models/suport_vector_machine.py",
+		"/home/myke/Dropbox/machine-learning-models/main.py",
+		"/home/myke/Dropbox/machine-learning-models/radial-base-function-network.py",
+		"/home/myke/Dropbox/machine-learning-models/simulated_annealing.py",
+		"/home/myke/Dropbox/machine-learning-models/particle_swarm_optimization.py",
 		"/home/myke/Dropbox/invent-with-python/Automate-The-Borring-Stuff/search_patterns.py",
 		"/home/myke/Dropbox/invent-with-python/Automate-The-Borring-Stuff/contatinhos.txt",
 		"/home/myke/Dropbox/invent-with-python/Automate-The-Borring-Stuff/chapter8_quiz.py",
@@ -291,7 +348,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -300,15 +357,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 137,
+						"buffer_size": 290,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								137,
-								137
+								262,
+								262
 							]
 						],
 						"settings":
@@ -318,6 +375,34 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "percepton_single_layer.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 711,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								646,
+								646
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 414.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -357,9 +442,17 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 268.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 267.0
 	},
 	"pinned_build_system": "",
 	"project": "machine-learning-models.sublime-project",
@@ -403,7 +496,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 116.0,
+	"side_bar_width": 267.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
