@@ -12,4 +12,5 @@ All dependences will be installed with those commands:
 ## Summary
 
 1. Persepton Single Layer
+ * Multlayer Neural Network
 
