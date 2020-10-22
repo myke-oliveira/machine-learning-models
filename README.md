@@ -1,6 +1,6 @@
 # machine-learning-models
 
-This repository presents some useful models and techinics for machine learning.
+This repository presents some useful models and methods for machine learning.
 
 ## Dependences
 
